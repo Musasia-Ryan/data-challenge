@@ -1,0 +1,75 @@
+Here are the descriptions of the columns in the FIFA dataset:
+
+ID: A unique identifier for each player in the dataset.
+Name: The name of the player.
+LongName: The full name of the player.
+Nationality: The nationality of the player.
+Age: The age of the player.
+↓OVA: The overall rating of the player in the game, at the time the dataset was created.
+POT: The potential rating of the player in the game.
+Club: The club that the player is currently playing for.
+Contract: The length of the player's contract with their current club.
+Positions: The positions that the player can play in the game.
+Height: The height of the player in centimeters.
+Weight: The weight of the player in kilograms.
+Preferred Foot: The foot that the player prefers to use.
+BOV: The best overall rating that the player has achieved in the game.
+Best Position: The best position for the player in the game, based on their attributes.
+Joined: The date that the player joined their current club.
+Value: The estimated value of the player in the transfer market.
+Wage: The weekly wage of the player.
+Attacking: The overall attacking rating of the player.
+Crossing: The rating for the player's ability to cross the ball.
+Finishing: The rating for the player's ability to finish scoring chances.
+Heading Accuracy: The rating for the player's accuracy when heading the ball.
+Short Passing: The rating for the player's ability to make short passes.
+Volleys: The rating for the player's ability to strike the ball on the volley.
+Skill: The overall skill rating of the player.
+Dribbling: The rating for the player's ability to dribble the ball.
+Curve: The rating for the player's ability to curve the ball.
+FK Accuracy: The rating for the player's accuracy when taking free kicks.
+Long Passing: The rating for the player's ability to make long passes.
+Ball Control: The rating for the player's ability to control the ball.
+Movement: The overall movement rating of the player.
+Acceleration: The rating for the player's acceleration.
+Sprint Speed: The rating for the player's top speed.
+Agility: The rating for the player's agility.
+Reactions: The rating for the player's ability to react quickly.
+Balance: The rating for the player's balance.
+Power: The overall power rating of the player.
+Shot Power: The rating for the player's shot power.
+Jumping: The rating for the player's jumping ability.
+Stamina: The rating for the player's stamina.
+Strength: The rating for the player's physical strength.
+Long Shots: The rating for the player's ability to shoot from long range.
+Mentality: The overall mentality rating of the player.
+Aggression: The rating for the player's aggression.
+Interceptions: The rating for the player's ability to intercept passes.
+Positioning: The rating for the player's ability to position themselves on the field.
+Vision: The rating for the player's ability to see the field and make passes.
+Penalties: The rating for the player's ability to score penalties.
+Composure: The rating for the player's composure on the ball.
+Defending: The overall defending rating of the player.
+Marking: The rating for the player's ability to mark opponents.
+Standing Tackle: The rating for the player's ability to make standing tackles.
+Sliding Tackle: The rating for the player's ability to make sliding tackles.
+Goalkeeping: The overall goalkeeping rating of the player
+GK Diving: This column represents the goalkeeper's ability to make diving saves.
+GK Handling: This column represents the goalkeeper's ability to handle the ball when catching or parrying shots.
+GK Kicking: This column represents the goalkeeper's ability to kick the ball long distances, either through goal kicks or throw-ins.
+GK Positioning: This column represents the goalkeeper's ability to position himself/herself correctly to make saves.
+GK Reflexes: This column represents the goalkeeper's ability to make quick reactions and save shots that require fast reflexes.
+Total Stats: This column represents the overall rating of the player, taking into account all attributes.
+Base Stats: This column represents the overall rating of the player, taking into account only the primary attributes.
+W/F: This column represents the player's weak foot rating, indicating how good they are at using their weaker foot.
+SM: This column represents the player's skill moves rating, indicating how many skill moves they can perform.
+A/W: This column represents the player's attacking work rate, indicating how much they contribute to the team's attack.
+D/W - This column likely refers to a player's preferred position on the pitch, with "D" representing defense and "W" representing wing. Therefore, a player with "D/W" as their position might be able to play both in defense and on the wing.
+IR - This column may refer to a player's international reputation, which could be based on factors such as their performance for their national team, their status as a high-profile player, or their public image.
+PAC - This column likely refers to a player's pace or speed attribute, which is an important factor in FIFA gameplay. A player with a high PAC rating would be able to cover ground quickly and potentially outrun defenders.
+SHO - This column likely refers to a player's shooting ability or accuracy, which is another important attribute in FIFA. A player with a high SHO rating would be more likely to score goals or create scoring opportunities.
+PAS - This column likely refers to a player's passing ability, which is crucial for teamwork and building attacks. A player with a high PAS rating would be able to make accurate and effective passes to their teammates.
+DRI - This column likely refers to a player's dribbling ability, which is another important skill in FIFA. A player with a high DRI rating would be able to control the ball well and potentially evade defenders.
+DEF: This column likely represents a player's defensive ability or skills in FIFA. DEF may be an abbreviation for "defense" and could include attributes such as tackling, interceptions, marking, and positioning.
+PHY: This column likely represents a player's physical attributes in FIFA. PHY may be an abbreviation for "physical" and could include attributes such as strength, stamina, and aggression.
+Hits: This column is a little ambiguous, but it may represent the number of times a player has been tackled or has tackled another player. Alternatively, it could refer to the number of times a player has been fouled or has committed a foul in a given period of time. Without additional context, it's difficult to determine the exact meaning of this column.
